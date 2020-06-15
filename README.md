@@ -1,1 +1,1 @@
-"# JavaScriptStudy" 
+"# Make Clock with JavaScript" 
